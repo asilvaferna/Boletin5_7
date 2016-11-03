@@ -7,6 +7,7 @@ public class Boletin5_7B {
         Cuadrado cd1 =  new Cuadrado();
         
         
+        cr1.areaCirculo(10);
     }
     
 }
