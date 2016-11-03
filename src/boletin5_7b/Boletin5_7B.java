@@ -6,7 +6,7 @@ public class Boletin5_7B {
         Circulo cr1 = new Circulo();
         Cuadrado cd1 =  new Cuadrado();
         t1.areaTriangulo(3, 4);
-        
+        cd1.areaCuadrado(6);
         
     }
     
